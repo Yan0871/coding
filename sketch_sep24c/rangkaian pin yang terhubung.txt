@@ -1,0 +1,22 @@
+6 motor servo:
+motor servo01 -> pin pwm 5
+motor servo02 -> pin pwm 6
+motor servo03 -> pin pwm 7
+motor servo04 -> pin pwm 8
+motor servo05 -> pin pwm 9
+motor servo06 -> pin pwm 10
+
+bluetooth:
+RXD -> pin RX 15
+TXD -> pin TX 14
+
+Sensor Jarak atau HC-SR04:
+Trig -> pin Digital 35
+Echo -> pin Digital 34
+
+LCD:
+SCLD -> pin scl
+SDAD -> pin sda
+
+Buzzer: 
+buzzer -> pin digital 36 
